@@ -26,15 +26,82 @@ Most study apps focus on tracking hours and pressure. I wanted something that tr
 
 ## Getting started
 
-1. Clone this repo
-[5:29 pm, 21/08/2026] ?!: git clone https://github.com/Maham-coree/chillbreak.git
-2. Install dependencies
+1. *Clone this repo*
+ git clone https://github.com/Maham-coree/chillbreak.git
+2. *Install dependencies*
 flutter pub get
-3. Run it
+3. *Run it*
 flutter run
 Or skip all that — grab the ready-to-install APK from the [Releases](../../releases) page and try it on your own Android phone.
 
+👉 **[Open ChillBreak Live Demo]**
+https://chillbreak-app.web.app
+
 ## Screenshots
+
+### Home Screen
+![ChillBreak Home Screen](screenshots/home page.png)
+
+### Breathing Screen
+![ChillBreak Breathing Screen](screenshots/breathing.png)
+
+### Gratitude
+![ChillBreak Gratitude](screenshots/gratitude.png)
+
+### Profile Page
+![ChillBreak Profile Page](screenshots/profile.png)
+
+### Daily Quote
+![ChillBreak Daily Quote](screenshots/daily quote.png)
+
+### Mini Game
+![ChillBreak Mini Game](screenshots/mini game.png)
+
+### Progress Page
+![ChillBreak Progress Page](screenshots/progress.png)
+
+### Motivational Audio
+![ChillBreak Motivational Audio](screenshots/motivational audio.png)
+
+### Home Screen
+
+![ChillBreak Home Screen](screenshots/home%20page.png)
+
+### Breathing Screen
+
+![ChillBreak Breathing Screen](screenshots/breathing.png)
+
+### Gratitude
+
+![ChillBreak Gratitude](screenshots/gratitude.png)
+
+### Profile Page
+
+![ChillBreak Profile Page](screenshots/profile.png)
+
+### Daily Quote
+
+![ChillBreak Daily Quote](screenshots/daily%20quote.png)
+
+### Mini Game
+
+![ChillBreak Mini Game](screenshots/mini%20game.png)
+
+### Progress Page
+
+![ChillBreak Progress Page](screenshots/progress.png)
+
+### Motivational Audio
+
+![ChillBreak Motivational Audio](screenshots/motivational%20audio.png)
+
+
+
+ ## 📥 Download Android APK
+
+You can also download and install the Android version:
+
+👉 **[Download ChillBreak APK](https://github.com/Maham-coree/ChillBreak_App/releases/tag/v1.0.0)**
 
 
 ## What's next
@@ -45,4 +112,4 @@ Or skip all that — grab the ready-to-install APK from the [Releases](../../rel
 
 ---
 
-Built by Maham Waseem — feel free to reach out if you'd like to give feedback or just talk about the project.
+Built by **Maham Waseem**— feel free to reach out if you'd like to give feedback or just talk about the project.
