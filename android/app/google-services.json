@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797918793165",
+    "project_id": "chillbreak-app",
+    "storage_bucket": "chillbreak-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797918793165:android:bc4b12f007e3858f4d0884",
+        "android_client_info": {
+          "package_name": "com.example.chilbreak_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9qKDlyBoViYAEjYdjC78uzAJ-7U3SFfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
