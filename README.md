@@ -40,32 +40,8 @@ https://chillbreak-app.web.app
 ## Screenshots
 
 ### Home Screen
-![ChillBreak Home Screen](screenshots/home page.png)
 
-### Breathing Screen
-![ChillBreak Breathing Screen](screenshots/breathing.png)
-
-### Gratitude
-![ChillBreak Gratitude](screenshots/gratitude.png)
-
-### Profile Page
-![ChillBreak Profile Page](screenshots/profile.png)
-
-### Daily Quote
-![ChillBreak Daily Quote](screenshots/daily quote.png)
-
-### Mini Game
-![ChillBreak Mini Game](screenshots/mini game.png)
-
-### Progress Page
-![ChillBreak Progress Page](screenshots/progress.png)
-
-### Motivational Audio
-![ChillBreak Motivational Audio](screenshots/motivational audio.png)
-
-### Home Screen
-
-![ChillBreak Home Screen](screenshots/home%20page.png)
+![ChillBreak Home Screen](screenshots/home-page.png)
 
 ### Breathing Screen
 
@@ -81,11 +57,11 @@ https://chillbreak-app.web.app
 
 ### Daily Quote
 
-![ChillBreak Daily Quote](screenshots/daily%20quote.png)
+![ChillBreak Daily Quote](screenshots/daily-quote.png)
 
 ### Mini Game
 
-![ChillBreak Mini Game](screenshots/mini%20game.png)
+![ChillBreak Mini Game](screenshots/mini-game.png)
 
 ### Progress Page
 
@@ -93,7 +69,7 @@ https://chillbreak-app.web.app
 
 ### Motivational Audio
 
-![ChillBreak Motivational Audio](screenshots/motivational%20audio.png)
+![ChillBreak Motivational Audio](screenshots/motivational-audio.png)
 
 
 
