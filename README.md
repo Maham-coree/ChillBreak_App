@@ -28,10 +28,11 @@ Most study apps focus on tracking hours and pressure. I wanted something that tr
 
 1. *Clone this repo*
  git clone https://github.com/Maham-coree/chillbreak.git
-2. *Install dependencies*
+2. *Install dependencies*: 
 flutter pub get
-3. *Run it*
+3. *Run it*: 
 flutter run
+
 Or skip all that — grab the ready-to-install APK from the [Releases](../../releases) page and try it on your own Android phone.
 
 👉 **[Open ChillBreak Live Demo]**
@@ -80,11 +81,6 @@ You can also download and install the Android version:
 👉 **[Download ChillBreak APK](https://github.com/Maham-coree/ChillBreak_App/releases/tag/v1.0.0)**
 
 
-## What's next
-
-- Real tracking for breathing minutes and monthly calendar view (already in progress)
-- Custom app icon and branding
-- iOS support
 
 ---
 
